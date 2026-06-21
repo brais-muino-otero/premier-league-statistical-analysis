@@ -2,7 +2,7 @@
 
 > A from-scratch statistical analysis of the Premier League 2022-23 season, synchronized across **R**, **R Markdown**, and **Jupyter (Python)**, plus an interactive **Shiny** app with a 6-language selector.
 
-**Live demo:** [braismuinootero.shinyapps.io/analisis_premier_22_23](https://braismuinootero.shinyapps.io/analisis_premier_22_23/)
+**Live demo:** [braismuinootero.shinyapps.io/app_premier_league_prediction_22_23](https://braismuinootero.shinyapps.io/app_premier_league_prediction_22_23/)
 
 **Companion project:** [datamill-analytics](https://github.com/brais-muino-otero/datamill-analytics) — a production-style Dash/Python web app built on the same dataset, focused on software architecture (Docker, i18n, testing, leakage-safe ML pipeline) rather than statistical breadth. This repository is the academic, statistics-first counterpart: classical hypothesis testing, GLMs, classification, unsupervised learning and linear programming, each justified methodologically.
 
@@ -42,7 +42,7 @@ Running `analisis_premier_22_23.R` first regenerates all four bridge files; the 
 
 ## Interactive Shiny app
 
-**Try it live:** [braismuinootero.shinyapps.io/analisis_premier_22_23](https://braismuinootero.shinyapps.io/analisis_premier_22_23/)
+**Try it live:** [braismuinootero.shinyapps.io/app_premier_league_prediction_22_23](https://braismuinootero.shinyapps.io/app_premier_league_prediction_22_23/)
 
 `app.R` ports the analysis into a 4-section interactive dashboard:
 
@@ -96,4 +96,4 @@ premier-league-statistical-analysis/
 
 **Brais Muiño Otero** — Data Science student (UDC), targeting ML/applied-science roles in the UK/Ireland.
 
-🔗 **GitHub:** [github.com/brais-muino-otero](https://github.com/brais-muino-otero)  ·  **Live demo:** [Shiny app](https://braismuinootero.shinyapps.io/analisis_premier_22_23/)
+🔗 **GitHub:** [github.com/brais-muino-otero](https://github.com/brais-muino-otero)  ·  **Live demo:** [Shiny app](https://braismuinootero.shinyapps.io/app_premier_league_prediction_22_23/)
