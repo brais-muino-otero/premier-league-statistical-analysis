@@ -2,7 +2,7 @@
 
 > A from-scratch statistical analysis of the Premier League 2022-23 season in R, synchronized across **R**, **R Markdown**, and **Jupyter (Python)**, plus an interactive **Shiny** app with a 6-language selector.
 
-**Companion project:** [datamill-analytics](https://github.com/brais-muino-otero/datamill-analytics) — a production-style Dash/Python web app built on the same dataset, focused on software architecture (Docker, i18n, testing, leakage-safe ML pipeline) rather than statistical breadth. This repository is the academic, statistics-first counterpart: classical hypothesis testing, GLMs, classification, unsupervised learning and linear programming, each justified methodologically.
+**Companion project:** [datamill-analytics](https://braismuinootero.shinyapps.io/app_premier_league_prediction_22_23/) — a production-style Dash/Python web app built on the same dataset, focused on software architecture (Docker, i18n, testing, leakage-safe ML pipeline) rather than statistical breadth. This repository is the academic, statistics-first counterpart: classical hypothesis testing, GLMs, classification, unsupervised learning and linear programming, each justified methodologically.
 
 ---
 
