@@ -79,6 +79,7 @@ premier-league-statistical-analysis/
 ├── app.R                          # Interactive Shiny dashboard (6 languages)
 ├── analisis_premier_22_23.R       # Consolidated R script (sections 1-10)
 ├── analisis_premier_22_23.Rmd     # R Markdown report (knit to HTML/Word/PDF)
+├── analisis_premier_22_23.pdf     # Rendered final report (knit from the .Rmd)
 ├── analisis_premier_22_23.ipynb   # Python/Jupyter notebook (reads the R-exported CSV bridges)
 ├── epl_results_2022-23.csv        # Source dataset (380 matches, 23 variables)
 ├── montecarlo_probs.csv           # R → Python bridge: Monte Carlo probabilities
