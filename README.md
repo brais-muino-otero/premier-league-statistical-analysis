@@ -95,6 +95,6 @@ premier-league-statistical-analysis/
 
 ## Author
 
-**Brais Muiño Otero** — Data Science student (UDC), targeting ML/applied-science roles in the UK/Ireland.
+**Brais Muiño Otero** — Data Science student (UDC), targeting ML/applied-science roles.
 
 🔗 **GitHub:** [github.com/brais-muino-otero](https://github.com/brais-muino-otero)  ·  **Live demo:** [Shiny app](https://braismuinootero.shinyapps.io/app_premier_league_prediction_22_23/)
